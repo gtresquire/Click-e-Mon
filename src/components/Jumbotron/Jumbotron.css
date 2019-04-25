@@ -1,0 +1,21 @@
+.header{
+	background-color: rgb(252, 228, 92);
+	position: relative;
+	width: 100%;
+	
+}
+
+h1{
+	text-align: center;
+	font-size: 75px;
+	font-weight: bold;
+	color: rgb(77, 103, 219);
+	padding: 90px 0 20px 0; 
+}
+
+h2{
+	text-align: center;
+	font-size: 30px;
+	color: rgb(77, 103, 219);
+	padding-bottom: 40px;
+}

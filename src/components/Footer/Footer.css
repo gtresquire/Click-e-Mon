@@ -1,0 +1,13 @@
+.footer{
+	background-color: rgb(255, 186, 38);
+	box-shadow: 0 3px 6px grey, 0 3px 6px grey;
+	width: 100%;
+	position: relative;
+}
+
+.footer p{
+	color: rgb(52, 44, 121);
+	text-align: center;
+	padding: 10px 0;
+	font-size: 25px;
+}
