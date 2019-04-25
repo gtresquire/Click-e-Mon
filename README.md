@@ -14,8 +14,8 @@ Click-e-Mon is a memory game using ReactJS. The application framework breaks up 
 
 ### Demo 
 
-  ![demo video](https://github.com/gtresquire/click-e-mon/tree/master/src/video/pokemon.gif "Demo")
-  ![Alt Text](https://github.com/gtresquire/click-e-mon/tree/master/src/video/pokemon.gif)
+  ![demo video](https://github.com/gtresquire/click-e-mon/blob/master/src/video/pokemon.gif "Demo")
+  ![Alt Text](https://github.com/gtresquire/click-e-mon/blob/master/src/video/pokemon.gif)
 
 ## Below are instructions for installing and running the application 
 
